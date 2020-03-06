@@ -1,3 +1,5 @@
+Sample project to display a list of images from Unsplash API using search query
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
